@@ -7,3 +7,4 @@ This is mostly prototype code and examples. There are several blog posts describ
   
 and how to make this orientation code work (http://realism.com/blog/tracking-device-motion).
 
+This library also requires the use of X3DOM (.js and .css - see http://x3dom.org/) and jQuery.
